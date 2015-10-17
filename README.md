@@ -1,6 +1,6 @@
 # angularconnect-la-mia-prima-conferenza-angularjs
 
-<img src="https://cloud.githubusercontent.com/assets/949194/10559801/92414b0a-74f8-11e5-89e3-75509c676ef0.jpg"/>
+<img src="https://cloud.githubusercontent.com/assets/949194/10559801/92414b0a-74f8-11e5-89e3-75509c676ef0.jpg" style="width: 80%"/>
 
 This document contains the definitions and terms that are common between the **Business Document
 Exchange Network (BUSDOX) service metadata** and transport specifications. 
